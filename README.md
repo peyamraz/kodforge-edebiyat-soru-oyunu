@@ -70,5 +70,5 @@ Yeni ekran eklemek için:
 
 ## Not
 
-Vakit/hava verileri benzetimdir; gerçek bir API'ye bağlamak için
+ gerçek bir API'ye bağlamak için
 ilgili `lib/services/` dosyasındaki fonksiyon gövdelerini `fetch` çağrısıyla değiştir.
