@@ -1,0 +1,10 @@
+.git
+.github
+node_modules
+wrangler.jsonc
+_redirects
+README.md
+CHANGELOG.md
+baslat.bat
+baslat.sh
+test
