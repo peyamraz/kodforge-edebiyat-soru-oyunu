@@ -2,8 +2,8 @@
 
 Türk edebiyatı veri setinden üretilen 1000+ soruluk havuz; 4 şık, 20 sn zamanlayıcı, seri bonuslu puanlama ve localStorage liderlik tablosu.
 
-Bu proje **KodForge FORGE-1** ajanı tarafından üretildi. Bağımsız bir **web uygulamasıdır**:
-hiçbir bağımlılığı yoktur, `npm install` gerekmez, internet bağlantısı istemez.
+Bu proje **Mehmet Reşat Raz** ajanı tarafından üretildi. Bağımsız bir **web uygulamasıdır**:
+hiçbir bağımlılığı yoktur, `npm install` gerekmez, internet bağlantısı istemez. Ücretsiz İndirebilirsiniz..
 Tüm veri tarayıcının localStorage'ında saklanır.
 
 ## Hızlı başlatma (PC)
