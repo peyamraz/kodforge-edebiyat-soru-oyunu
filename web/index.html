@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Edebiyat Soru Oyunu — KodForge FORGE-1 ajanı ile üretilmiş bağımsız web uygulaması.">
+  <title>Edebiyat Soru Oyunu</title>
+  <link rel="icon" type="image/svg+xml" href="../assets/logo.svg">
+  <link rel="stylesheet" href="../css/base.css">
+  <link rel="stylesheet" href="../css/app.css">
+</head>
+<body>
+  <div id="uygulama">
+    <header id="ust-cubuk">
+      <img src="../assets/logo.svg" alt="Edebiyat Soru Oyunu logosu" class="logo">
+      <strong id="uygulama-adi">Edebiyat Soru Oyunu</strong>
+      <button id="tema-dugmesi" type="button" aria-label="Temayı değiştir"></button>
+    </header>
+    <main id="ekran" aria-live="polite"></main>
+    <nav id="alt-nav" aria-label="Bölümler"></nav>
+  </div>
+  <div id="bilesen-kutusu"></div>
+  <script src="../lib/utils/yardimci.js" defer></script>
+  <script src="../lib/utils/tarih.js" defer></script>
+  <script src="../lib/core/config.js" defer></script>
+  <script src="../lib/services/depolama.js" defer></script>
+  <script src="../lib/core/tema.js" defer></script>
+  <script src="../lib/models/veri.js" defer></script>
+  <script src="../lib/widgets/bilesenler.js" defer></script>
+  <script src="../lib/services/soruBankasi.js" defer></script>
+  <script src="../lib/screens/ekranlar.js" defer></script>
+  <script src="../lib/screens/anasayfa.js" defer></script>
+  <script src="../lib/screens/oyun.js" defer></script>
+  <script src="../lib/screens/sonuc.js" defer></script>
+  <script src="../lib/screens/siralama.js" defer></script>
+  <script src="../lib/screens/ayarlar.js" defer></script>
+  <script src="../lib/main.js" defer></script>
+</body>
+</html>
